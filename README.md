@@ -1,4 +1,4 @@
-Steps to deploy your docker file on docker hub 
+# Steps to deploy your docker file on docker hub 
 # Step 1: Create a dockerfile using: 
     mkdir dockerfile cd dockerfile touch dockerfile. 
 
